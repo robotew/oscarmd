@@ -19,7 +19,8 @@ BIG THANKS TO
     📮 https://github.com/krizynofc
 ⤿ Zifabotz_offc1
     📮 https://github.com/Botynyakamu
-    
+⤿ Oscarbotz_offc1  
+    📮 https://github.com/robotew
 THANKS PARA DONASI YANG TERHORMAT
 `
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
