@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ 𝐨𝐬𝐜𝐚𝐫 𝐨𝐟𝐜',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -445,7 +445,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 },{
                   "title": `💳⟩» SEWA BOT`,
                   "description": "Sewa kak, awokawok",
-                  "rowId": `.sewazifa`
+                  "rowId": `.sewaoscar`
                 },{
                   "title": "🌈⟩» INFO BOT",
                   "description": "Menampilkan Menu Info",
