@@ -3,37 +3,37 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY RIEL OFC
-
+// RECODE BY OSCAR OFC
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6285850539404'] 
+global.mods = ['6285850539404'] 
+global.prems = ['6285850539404'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.numberowner = '6285828764046'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝐎𝐬𝐜𝐚𝐫_𝙊𝙛𝙛cོ1꧅'
+global.numberowner = '6285850539404'
+global.instagram = 'https://instagram.com/frnshpvirtual_'
+global.youtube = 'https://youtu.be/sKYZri1Envg'
+global.dana = '085850539404'
+global.pulsa = '085850539404'
+global.gopay = '085850539404'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
+global.namebot = '❋ཻུ۪۪⸙oscarbotz-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+global.web = 'https://instagram.com/frnshpvirtual_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://youtu.be/sKYZri1Envg'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/8410998b326cd4739c182.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/8410998b326cd4739c182.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '© ❋ཻུ۪۪⸙Oscarbotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐎𝐬𝐜𝐚𝐫_𝙊𝙛𝙛cོ1꧅'
+global.wm3 = 'ᯤ Oscar 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -43,8 +43,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'Oscarbotz'
+global.author = '@oscar'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
